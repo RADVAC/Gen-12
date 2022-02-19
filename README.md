@@ -4,7 +4,9 @@ SARS-CoV-2 Peptide Vaccine, Gen 12
 **TERMS OF USE/INFORMED CONSENT (updated 2021-04-30)**
 
 This document describes the rationale, design, formulation, and self-administration of a vaccine for SARS-CoV-2. By using this information you agree to the following: 1) you are a consenting adult (in the USA, at least 18 years of age); and 2) you take full responsibility for your use of RaDVaC information and vaccine or material--including redistribution, modification, vaccine formulation, production and administration.
+
 A foundational principle of the vaccine development and deployment strategy of RaDVaC is rapid iteration and testing of vaccine designs, based on newly published information from the forefront of biomedical research. This agile approach has the potential to produce better vaccines much more quickly than traditional approaches. However, such rapid design improvements currently are not compatible with established clinical trial requirements of fixed vaccine design, nor with review and approval by ethics committees (due to shifting vaccine design and continually updating self-experimentation and testing protocols). Therefore, the information presented within has not been approved by an institutional review board or any other type of ethics committee, and you understand and agree that any implementation of this information constitutes self-experimentation.
+
 The purpose of this open-source vaccine effort is to reduce risk of harm from SARS-CoV-2. In addition to providing the results of our own research and experimentation, we hope to motivate others to build on our work, and to pursue diverse evidence-based approaches. Given the immense complexity and variability of individual human biology, it is not possible to predict all potential physiological responses to any vaccine. But as is true for most or all vaccines used on a large scale, there is a tradeoff between a larger known risk from the disease the vaccine is designed to prevent or mitigate, and the smaller risk introduced by the vaccine itself. Any vaccine poses risks, and, if used in enough people, will cause some degree of harm. Furthermore, certain harm, such as allergic and possibly anaphylactic response, will be readily seen and measured, whereas benefit is more difficult and takes longer to assess. This vaccine is no different; and because quality of delivery is highly dependent on the meticulousness of individual end users, it might pose unique risks not posed by typical commercial vaccines.
 
 
@@ -57,6 +59,7 @@ Vaccines have become associated with negative outcomes that do not result from t
 **Self-Experimentation**
 
 By utilizing the information and scientific opinions in this document, and in any correspondence with us, you acknowledge and agree that any use to develop and self-administer a substance is an act of self-experimentation. Laws and regulations on such actions may differ in your national or state jurisdiction, and it is your responsibility to be informed about them.
+
 Additionally, the type of work described in this document requires certain equipment and level of skill with laboratory techniques. You agree to assume full responsibility for acquiring proper equipment, knowledge, and training, and for attempting to formulate or administer vaccine. 
 
 
